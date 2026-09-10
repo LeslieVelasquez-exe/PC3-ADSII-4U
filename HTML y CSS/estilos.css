@@ -1,0 +1,15 @@
+h1{
+    color: rgb(145, 17, 17);
+    background-color: rgb(241, 202, 26);
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Times New Roman;
+}
+
+h2{
+    color: rgb(18, 18, 146);
+    background-color: rgb(26, 234, 241);
+    font-size: 30px;
+    font-family: Verdana;
+}
